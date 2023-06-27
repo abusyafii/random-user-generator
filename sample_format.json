@@ -1,0 +1,66 @@
+{
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Mademoiselle",
+          "first": "Hana",
+          "last": "Simon"
+        },
+        "location": {
+          "street": {
+            "number": 2561,
+            "name": "Rue de L'Abbé-Carton"
+          },
+          "city": "Hedingen",
+          "state": "Basel-Stadt",
+          "country": "Switzerland",
+          "postcode": 8164,
+          "coordinates": {
+            "latitude": "-61.7582",
+            "longitude": "98.0195"
+          },
+          "timezone": {
+            "offset": "+11:00",
+            "description": "Magadan, Solomon Islands, New Caledonia"
+          }
+        },
+        "email": "hana.simon@example.com",
+        "login": {
+          "uuid": "6fef4862-4264-4455-8ab0-18f007c7b347",
+          "username": "beautifulbutterfly589",
+          "password": "plastics",
+          "salt": "kzrswvbQ",
+          "md5": "52f6e3f7fdd4d4390e07b842bd45d4b6",
+          "sha1": "8cb66fcd13340f0546e916c04f888c0ca10022c3",
+          "sha256": "202ad253b292cb30b781307786a1514c896fbc9c4f638515d7475fa1e01a08db"
+        },
+        "dob": {
+          "date": "1999-09-05T16:35:24.769Z",
+          "age": 23
+        },
+        "registered": {
+          "date": "2002-09-16T05:21:49.786Z",
+          "age": 20
+        },
+        "phone": "077 713 43 59",
+        "cell": "075 745 31 08",
+        "id": {
+          "name": "AVS",
+          "value": "756.5629.1484.75"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/4.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+        },
+        "nat": "CH"
+      }
+    ],
+    "info": {
+      "seed": "479f3d6a813df224",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
